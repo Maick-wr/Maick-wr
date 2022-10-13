@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
-
+## Olá, eu sou o Maick! 👋😀
+Atualmente estudando muito e em busca de uma oportunidade como Desenvolvedor Front-end.
  <div>
    <a href="https://github.com/Maick-wr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maick-wr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,10 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+ <br> 
 <div>  
   <a href="https://www.linkedin.com/in/maick-william-869185239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
